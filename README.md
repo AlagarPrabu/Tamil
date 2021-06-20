@@ -1,4 +1,7 @@
 # Tamil_character_parse
+
+###This project will helps you to extract the individual tamil characters from the string.###
+
 **Step 1:** Download the source from here   
 **Step 2:** Extract the zip file  
 **Step 3:** Open the terminal inside the extracted folder  
@@ -9,6 +12,7 @@
 Now, terminal will ask you to enter the string  
 
 **Enter your String:** வெண்பா  
+
 you will get output like below  
 
 **['வெ', 'ண்', 'பா']**
