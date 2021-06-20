@@ -6,7 +6,7 @@ def get_characters(word):
     processed_character = []
     splitted_character = ""
     tamil_vowels = ["அ", "இ", "உ", "எ", "ஒ","ஆ", "ஈ", "ஊ", "ஏ", "ஐ", "ஓ", "ஔ", "ஃ"]
-    tamil_consonent = ["க", "ங", "ச", "ஞ", "ட", "ண", "த","ந", "ப", "ம", "ய", "ர", "ல", "வ", "ழ", "ள", "ற", "ன"]
+    tamil_consonent = ["க", "ங", "ச", "ஞ", "ட", "ண", "த","ந", "ப", "ம", "ய", "ர", "ல", "வ", "ழ", "ள", "ற", "ன","ஜ", "ஷ", "ஸ", "ஹ", "க்ஷ"]
     for get_character in word:
         if get_character in tamil_vowels:
             processed_character.append(get_character)
