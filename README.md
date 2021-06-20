@@ -1,6 +1,6 @@
 # Tamil_character_parse
 
-###This project will helps you to extract the individual tamil characters from the string.###
+## This project will helps you to extract the individual tamil characters from the string.### 
 
 **Step 1:** Download the source from here   
 **Step 2:** Extract the zip file  
